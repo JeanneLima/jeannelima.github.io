@@ -1,0 +1,30 @@
+/* Configurações mais gerais */
+@media only screen and (min-width: 320px) and (max-width: 992px){
+	nav .iconsNetwork {
+	  display: none;
+	}
+	nav .iconsNetwork i{
+	  margin: 0;
+	}
+}
+
+/* Mobile */
+@media only screen and (min-width: 320px) and (max-width: 768px){
+
+}
+
+/* Tablets */
+@media only screen and (min-width: 768px) and (max-width: 992px){
+	
+}
+
+/* Pequenos Desktops */
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+	
+}
+
+/* Pequenos Desktop */
+@media only screen and (min-width: 1200px){
+	
+}
+
