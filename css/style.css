@@ -552,3 +552,30 @@ footer .navbar-brand{
 header .btn-primary {
     background-color: transparent; 
 }
+
+/* Linguagens */
+#envelope-lings{
+    width: 100%;
+    padding-bottom: 30;
+    margin: 0;      
+    vertical-align: middle;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Ubuntu', 'Arial', sans-serif;
+    line-height: 1.5;
+}
+#envelope-lings li{
+    display: inline-block;
+    padding: 5px; 
+    padding-top: 2.5%;
+    padding-bottom: 0;
+}
+#envelope-lings a{
+    color: #fff;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+    padding-right: 10px;
+}
+#envelope-lings .en {
+    border-right: none;
+}
