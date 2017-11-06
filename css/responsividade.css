@@ -17,6 +17,15 @@
 		width: 50%;
 		margin-left: 25%;
 	}
+	nav{
+	  width: 100vw;
+	  overflow: hidden;
+	  background: #fff;
+	  display: fixed;
+	}
+	nav a, .navbar-brand {
+	  color: #02052a!important;
+	}
 }
 
 /* Tablets */
