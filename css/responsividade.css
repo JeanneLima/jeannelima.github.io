@@ -26,6 +26,9 @@
 	nav a, .navbar-brand {
 	  color: #02052a!important;
 	}
+	.nav-link{
+		text-align: center;
+	}
 }
 
 /* Tablets */
